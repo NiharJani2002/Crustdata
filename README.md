@@ -60,4 +60,3 @@ Open App.js in VSCode.
 Modify components, styles, or functionality as needed.
 
 Save your changes, and the browser will automatically refresh to show updates.
-
